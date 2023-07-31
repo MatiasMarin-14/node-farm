@@ -11,7 +11,7 @@ All dependencies are in the container.
 RUNNING THE CONTAINER
 ----
 The container can be built by going to 
-`$cd path/to/repo/stater`
+`$cd path/to/repo/starter`
 The folder should contain a Dockerfile
 
 Running the command
